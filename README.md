@@ -1,9 +1,17 @@
 # zlist-android
 Android Client for ZList.
 
-## alpha 版
+## Alpha 版
 
 [Apk 文件下载地址](doc/demo/zlist.apk)
+
+## Build in Docker
+
+    git clone git@github.com:zlisthq/zlist-android.git <someDir>
+    cd someDir
+    docker build -t zlist-android .
+    docker run -v <someDir>:/android  zlist-android
+
 
 ## Screenshots
 
