@@ -5,8 +5,6 @@ Android Client for ZList.
 
 [Apk 文件下载地址](doc/demo/zlist.apk)
 
-下载后请把后缀名改为.apk
-
 ## Screenshots
 
 首页
