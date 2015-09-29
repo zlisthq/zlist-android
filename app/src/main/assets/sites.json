@@ -18,6 +18,15 @@
         ]
     },
     {
+        "name": "澎湃新闻",
+        "info": [
+            {
+                "name": "澎湃新闻",
+                "url": "/thepaper/top"
+            }
+        ]
+    },
+    {
         "name": "V2EX",
         "info": [
             {
@@ -27,6 +36,15 @@
             {
                 "name": "最新话题",
                 "url": "/v2ex/latest"
+            }
+        ]
+    },
+    {
+        "name": "开发者头条",
+        "info": [
+            {
+                "name": "今日头条",
+                "url": "/toutiao/top"
             }
         ]
     },
@@ -128,6 +146,15 @@
             {
                 "name": "一刻",
                 "url": "/douban/moment"
+            }
+        ]
+    },
+    {
+        "name": "果壳精选",
+        "info": [
+            {
+                "name": "精选",
+                "url": "/guokr/handpick"
             }
         ]
     },
